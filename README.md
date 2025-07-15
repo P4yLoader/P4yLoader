@@ -123,7 +123,6 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 - [X] Terraform
 - [ ] Kubernetes
 - [x] Ansible
-- [x] Puppet
 - [x] Cloud Security
 - [x] Pentesting
 
@@ -140,7 +139,8 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 - [X] Hacking
 - [X] Python Programming
 - [X] Video Games
-
+- [X] Html, java, css
+- [ ] 
 ## 💬 Ask me about ...
 ## 📫 How to reach me: ...
 
