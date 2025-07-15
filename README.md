@@ -3,7 +3,7 @@
 
 ## 😄 About me
 
-My name is Victor I am a Technical Software Programmer and `Ethical Hacker (Cl0wnR3v)`
+My name is Victor I am a Technical Software Programmer, and `Ethical Hacker (Cl0wnR3v)`
 
 
 ![moises' stats](https://github-readme-stats.vercel.app/api?username=moisestapia&show_icons=true)<br>
