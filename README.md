@@ -8,11 +8,6 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 
 ![moises' stats](https://github-readme-stats.vercel.app/api?username=moisestapia&show_icons=true)<br>
 
-## ⚡ My profiles in Pentester Platforms
-
-<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/prohackthebox.png" width="600" height="100" /> <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/equinockx.png" />
-
-
 ## My badges and certifications
 
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/Foundations_of_Purple_Teaming_Badge.png" width="100" height="100" /> <br>
