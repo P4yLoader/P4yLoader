@@ -144,8 +144,7 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 ## 💬 Ask me about ...
 ## 📫 How to reach me: ...
 
-[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:moisestapia@gmail.com)
-[![Chat on Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/equinockx)
+[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:victorgsmbrasil@gmail.com)
 
 ## Some Projects
 
