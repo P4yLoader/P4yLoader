@@ -120,7 +120,7 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 - [X] Software recovery
 
 ## 🌱 I’m currently learning ...
-- [X] Terraform
+- [ ] Terraform
 - [ ] Kubernetes
 - [x] Ansible
 - [x] Cloud Security
@@ -129,6 +129,7 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 
 ## 😄 My Goals ...
 - [ ] Kubernetes (CKS)
+- [ ] Osint
 - [ ] eJPT
 - [ ] OSWP
 - [ ] OSCP
@@ -140,7 +141,6 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 - [X] Python Programming
 - [X] Video Games
 - [X] Html, java, css
-- [ ] 
 ## 💬 Ask me about ...
 ## 📫 How to reach me: ...
 
