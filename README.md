@@ -115,7 +115,6 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 -->
 ## 🔭 I’m currently working on ...
 
-- [X] DevSecOps
 - [X] Cybersecurity
 - [X] Programming
 - [X] Software recovery
