@@ -127,14 +127,6 @@ My name is Victor I am a Technical Software Programmer and `Ethical Hacker (Cl0w
 - [x] Pentesting
 
 
-## 😄 My Goals ...
-- [ ] Kubernetes (CKS)
-- [ ] Osint
-- [ ] eJPT
-- [ ] OSWP
-- [ ] OSCP
-- [ ] CCSK
-
 ## ⚡ Fun fact: ...
 
 - [X] Hacking
