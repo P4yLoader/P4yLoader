@@ -6,7 +6,7 @@
 My name is Victor I am a Technical Software Programmer and `Ethical Hacker (Cl0wnR3v)`
 
 
-![moises' stats](https://github-readme-stats.vercel.app/api?username=moisestapia&show_icons=true)<br>
+<a href="https://ibb.co/b5QrRtYJ"><img src="https://i.ibb.co/Qvp6j0hd/Victor-20250718-204329-0000.png" alt="Victor-20250718-204329-0000" border="0"></a>
 
 ## My badges and certifications
 
